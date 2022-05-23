@@ -1,9 +1,24 @@
 .navbar-light .navbar-nav .nav-link
 {
-    color: var(--secondary-color);
+    color: black;
 }
 .navbar-light .navbar-nav .nav-link.active-link
 {
-    color: var(--primary-color);
+    color: purple;
     text-decoration: underline;
+}
+
+.nav_bg
+{
+    background-color:#b34d4d;
+    color :black
+}
+ 
+.nav-item{
+    font-size: 20px;
+    color:black;
+}
+
+.navbar-brand{
+    color: black;
 }
